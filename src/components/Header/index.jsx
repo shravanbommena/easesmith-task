@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <nav className="h-24 flex justify-center items-end px-12 pb-3">
       <div className="w-full flex justify-between items-center">
-        <Link to="/plants">
+        <Link to="/">
           <div className="flex items-center gap-2">
             <img src="/images/site-logo.png" alt="site logo" />
             <h1 className="text-[#0f4811] font-semibold text-2xl">Cheparone</h1>
@@ -18,7 +18,7 @@ const Header = () => {
         </Link>
         <ul className="flex gap-8 font-medium text-base">
           <li>
-            <Link to="/plants">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li className="text-[#f3a939] flex flex-col items-center">
             Plants & Pots

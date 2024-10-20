@@ -32,7 +32,7 @@ function App() {
         <Header />
         {
           <Switch>
-            <Route exact path="/plants" component={Products} />
+            <Route exact path="/" component={Products} />
             <Route exact path="/thank-you" component={ThankYou} />
           </Switch>
         }

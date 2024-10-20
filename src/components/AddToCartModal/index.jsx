@@ -15,7 +15,7 @@ const AddToCartModal = (props) => {
   const handleContinueShopping = () => {
     setShowOrderPlaced(false);
     setShowModal(false);
-    history.push("/plants");
+    history.push("/");
   };
 
   const addToCartModal = () => (
