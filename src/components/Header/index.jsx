@@ -12,7 +12,7 @@ const Header = () => {
       <div className="w-full flex justify-between items-center">
         <Link to="/plants">
           <div className="flex items-center gap-2">
-            <img src="/src/assets/site-logo.png" alt="site logo" />
+            <img src="/images/site-logo.png" alt="site logo" />
             <h1 className="text-[#0f4811] font-semibold text-2xl">Cheparone</h1>
           </div>
         </Link>
@@ -33,7 +33,7 @@ const Header = () => {
         <div className="flex gap-3">
           <div className="flex flex-col justify-end items-center gap-1">
             <img
-              src="/src/assets/account profile.png"
+              src="/images/account profile.png"
               alt="profile-icon"
               className="size-5"
             />
@@ -44,7 +44,7 @@ const Header = () => {
               <span>{cart.length}</span>
             </div>
             <img
-              src="/src/assets/cart.png"
+              src="/images/cart.png"
               alt="cart"
               className="size-7 mb-[-4px]"
             />

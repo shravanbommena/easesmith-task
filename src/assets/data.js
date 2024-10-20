@@ -1,7 +1,7 @@
 export const plantList = [
   {
     id: 1,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -10,7 +10,7 @@ export const plantList = [
   },
   {
     id: 2,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -19,7 +19,7 @@ export const plantList = [
   },
   {
     id: 3,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -28,7 +28,7 @@ export const plantList = [
   },
   {
     id: 4,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -37,7 +37,7 @@ export const plantList = [
   },
   {
     id: 5,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -46,7 +46,7 @@ export const plantList = [
   },
   {
     id: 6,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -55,7 +55,7 @@ export const plantList = [
   },
   {
     id: 7,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -64,7 +64,7 @@ export const plantList = [
   },
   {
     id: 8,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -73,7 +73,7 @@ export const plantList = [
   },
   {
     id: 9,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -82,7 +82,7 @@ export const plantList = [
   },
   {
     id: 10,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -91,7 +91,7 @@ export const plantList = [
   },
   {
     id: 11,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -100,7 +100,7 @@ export const plantList = [
   },
   {
     id: 12,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -109,7 +109,7 @@ export const plantList = [
   },
   {
     id: 13,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -118,7 +118,7 @@ export const plantList = [
   },
   {
     id: 14,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -127,7 +127,7 @@ export const plantList = [
   },
   {
     id: 15,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -136,7 +136,7 @@ export const plantList = [
   },
   {
     id: 16,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -145,7 +145,7 @@ export const plantList = [
   },
   {
     id: 17,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -154,7 +154,7 @@ export const plantList = [
   },
   {
     id: 18,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -163,7 +163,7 @@ export const plantList = [
   },
   {
     id: 19,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -172,7 +172,7 @@ export const plantList = [
   },
   {
     id: 20,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -181,7 +181,7 @@ export const plantList = [
   },
   {
     id: 21,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -190,7 +190,7 @@ export const plantList = [
   },
   {
     id: 22,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -199,7 +199,7 @@ export const plantList = [
   },
   {
     id: 23,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -208,7 +208,7 @@ export const plantList = [
   },
   {
     id: 24,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -217,7 +217,7 @@ export const plantList = [
   },
   {
     id: 25,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -226,7 +226,7 @@ export const plantList = [
   },
   {
     id: 26,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -235,7 +235,7 @@ export const plantList = [
   },
   {
     id: 27,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -244,7 +244,7 @@ export const plantList = [
   },
   {
     id: 28,
-    imagePath: "/src/assets/plant-1.png",
+    imagePath: "/images/plant-1.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -253,7 +253,7 @@ export const plantList = [
   },
   {
     id: 29,
-    imagePath: "/src/assets/plant-2.png",
+    imagePath: "/images/plant-2.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -262,7 +262,7 @@ export const plantList = [
   },
   {
     id: 30,
-    imagePath: "/src/assets/plant-3.png",
+    imagePath: "/images/plant-3.png",
     title: "Monsterra",
     type: "Indoor Plant, Low maintenance",
     rating: 4.9,
@@ -273,43 +273,43 @@ export const plantList = [
 
 export const nurseryList = [
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 68.png",
+    imagePath: "/images/nursery-images/Ellipse 68.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 69.png",
+    imagePath: "/images/nursery-images/Ellipse 69.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 70.png",
+    imagePath: "/images/nursery-images/Ellipse 70.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 71.png",
+    imagePath: "/images/nursery-images/Ellipse 71.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 62.png",
+    imagePath: "/images/nursery-images/Ellipse 62.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 63.png",
+    imagePath: "/images/nursery-images/Ellipse 63.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 64.png",
+    imagePath: "/images/nursery-images/Ellipse 64.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 65.png",
+    imagePath: "/images/nursery-images/Ellipse 65.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 66.png",
+    imagePath: "/images/nursery-images/Ellipse 66.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
   {
-    imagePath: "/src/assets/nursery-images/Ellipse 67.png",
+    imagePath: "/images/nursery-images/Ellipse 67.png",
     desc: "Lorem ipsum dolor sit amet. Aut ipsam illum et nostrum",
   },
 ];

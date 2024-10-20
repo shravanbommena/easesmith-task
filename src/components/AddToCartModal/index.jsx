@@ -99,7 +99,7 @@ const AddToCartModal = (props) => {
         </h4>
 
         <img
-          src="/src/assets/order-placed-plant-1.png"
+          src="/images/order-placed-plant-1.png"
           alt="plant icon"
           className="size-[98px]"
         />

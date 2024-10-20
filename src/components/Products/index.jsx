@@ -22,7 +22,7 @@ const Products = () => {
       <div className="px-16">
         <div className="mt-2 flex mx-auto input-div">
           <img
-            src="/src/assets/search-icon.png"
+            src="/images/search-icon.png"
             alt="search-icon"
             className="search-input-icon"
           />
@@ -31,7 +31,7 @@ const Products = () => {
             placeholder="Search Plant"
             className="outline-none search-input"
           />
-          <img src="/src/assets/search-input-plant.png" alt="plant-icon" />
+          <img src="/images/search-input-plant.png" alt="plant-icon" />
         </div>
         <div className="flex product-types-div">
           <button className="product-type-button product-plant-type-button shadow-lg">
