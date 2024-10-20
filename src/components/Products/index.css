@@ -1,0 +1,78 @@
+.input-div {
+  height: 26px;
+  width: 100%;
+  max-width: 370px;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.4);
+}
+
+.search-input-icon {
+  height: 20px;
+  width: 20.3px;
+  margin-top: 0.4px;
+  margin-right: 8px;
+}
+
+.product-types-div {
+  margin-top: 51px;
+  gap: 11px;
+  margin-bottom: 25px;
+}
+
+.product-type-button {
+  height: 37px;
+  width: 114px;
+}
+
+.product-plant-type-button {
+  font-size: 20px;
+  font-weight: 600;
+  background-color: #165315;
+  color: white;
+}
+
+.product-pots-type-button {
+  font-size: 20px;
+  font-weight: 300;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.search-input {
+  font-size: 16px;
+  color: #838383;
+  padding-left: 4px;
+}
+
+.products-page-desc {
+  font-weight: 400;
+  font-size: 16px;
+  color: #838383;
+  margin-bottom: 25px;
+}
+
+.product-section {
+  gap: 52px;
+}
+
+.products-count {
+  font-size: 15px;
+  color: #6a6a6a;
+}
+
+/* ps --- product section */
+
+.ps-count-and-sort {
+  margin-bottom: 35px;
+  gap: 13px;
+}
+
+.ps-sort-button {
+  background-color: #165315;
+  height: 36px;
+  width: 139px;
+  padding: 6px 7px;
+}
+
+.product-list {
+  gap: 42px;
+}

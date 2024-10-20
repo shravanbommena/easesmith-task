@@ -1,0 +1,14 @@
+.nursery-title {
+  margin-bottom: 27px;
+}
+
+.nursery-item-image {
+  height: 120px;
+  width: 120px;
+  object-fit: contain;
+}
+
+.nursery-item-desc {
+  color: #838383;
+  width: 172px;
+}

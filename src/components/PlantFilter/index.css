@@ -1,0 +1,20 @@
+.filter-div {
+  background-color: #f0ffe5;
+  width: 304px;
+  min-width: 304px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 18px;
+  padding-bottom: 33px;
+  color: #6e6e6e;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.filter-hr {
+  margin-bottom: 22px;
+  margin-top: 15px;
+}
